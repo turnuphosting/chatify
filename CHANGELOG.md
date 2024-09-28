@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## v1.6.5 ()
+
+### Fixed
+- Settings modal UI #351
+- Limit the data retrieved for the user #359
+
+## v1.6.4 (2024-04-27)
+
+### Fixed
+- [fix bug] updateSelectedContact and IDinfo load if user_id != auth_id #339
+
+## v1.6.3 (2024-03-17)
+
+### Added
+
+- Support for a custom routes.
+
 ## v1.6.2 (2023-07-27)
 
 ### Added
